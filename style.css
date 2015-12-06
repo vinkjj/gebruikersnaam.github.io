@@ -667,3 +667,71 @@ th{
   font-style: italic;
   margin-left: 5em;
 }
+.teksthockeyclubs{
+
+
+}
+#noord-brabant{
+  display: inline-block;
+  position: relative;
+  left: 25em;
+  top: -293.8em;
+}
+#zuid-holland{
+  display: inline-block;
+  position: relative;
+  left: 25em;
+  top: -150.5em;
+}
+#overijssel{
+  display: inline-block;
+  position: relative;
+  left: 25em;
+  top: 62.5em;
+}
+#zeeland{
+  display: inline-block;
+  position: relative;
+  top: -230em;
+  left: 6em;
+}
+#limburg{
+  display: inline-block;
+  position: relative;
+  top: -192em;
+  left: 10em;
+}
+#flevoland{
+  top: -18em;
+  position: relative;
+}
+.inleidinghockeyclubs{
+position:absolute;
+margin-left: 33%;
+margin-top: 10em;
+background-color: white;
+width:45em;
+height:410em;
+border-radius: 5px;
+}
+#herenfoto{
+  width: 45em;
+  height: 22.5em;
+  position: relative;
+  margin-top: 1em
+}
+#olympisch{
+  margin-left: 15em;
+}
+#wereld{
+  margin-left: 15em;
+}
+#europees{
+  margin-left: 15em
+}
+#damesfoto{
+  width: 45em;
+  height: 22.5em;
+  position: relative;
+  margin-top: 0em
+}
