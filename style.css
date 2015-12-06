@@ -735,3 +735,6 @@ border-radius: 5px;
   position: relative;
   margin-top: 0em
 }
+li{
+  list-style-type: none;
+}
